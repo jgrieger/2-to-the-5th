@@ -1,0 +1,16 @@
+﻿<!--    cerner_2^5_2018 
+        Jacob Grieger
+        generic shell window for MS Windows Desktop app -->
+<Window x:Class="One.GenericShell"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="{Binding Title}" 
+        Height="{Binding Height}" 
+        Width="{Binding Width}">
+    <Grid>
+        <ContentControl Margin="15" 
+                        HorizontalAlignment="Stretch"
+                        HorizontalContentAlignment="Stretch"
+                        Content="{Binding Path=Content}" />
+    </Grid>
+</Window>
