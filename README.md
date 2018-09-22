@@ -12,3 +12,6 @@
 
 ## Submission four (04) - VB.net
 **[Sick leave manager mailer](https://github.com/jgrieger/2-to-the-5th/blob/master/Four/Four/MyManagerMailer.vb)**
+
+## Submission five (05) - Batch file
+**[Turn the lights off](https://github.com/jgrieger/2-to-the-5th/blob/master/Five/time2Leave.bat)**

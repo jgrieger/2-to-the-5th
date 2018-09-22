@@ -1,0 +1,3 @@
+REM cerner_2^5_2018
+Echo You're never going to read this line before the light turns off...
+shutdown -s -t 0
