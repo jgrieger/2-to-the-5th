@@ -15,3 +15,6 @@
 
 ## Submission five (05) - Batch file
 **[Turn the lights off](https://github.com/jgrieger/2-to-the-5th/blob/master/Five/time2Leave.bat)**
+
+## Submission six (06) - PHP
+**[Create custom JWT](https://github.com/jgrieger/2-to-the-5th/blob/master/Six/createJwt.php)**
