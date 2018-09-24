@@ -18,3 +18,6 @@
 
 ## Submission six (06) - PHP
 **[Create custom JWT](https://github.com/jgrieger/2-to-the-5th/blob/master/Six/createJwt.php)**
+
+## Submission seven (07) - F#
+**[Get latest monkeys ordered by population](https://github.com/jgrieger/2-to-the-5th/blob/master/Seven/Seven/GetLatestMonkeyList.fs)**
