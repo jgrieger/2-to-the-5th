@@ -27,3 +27,6 @@
 
 ## Submission nine (09) - PowerShell
 **[Ask stackoverflow](https://github.com/jgrieger/2-to-the-5th/blob/master/Nine/AskStackOverflow.ps1)**
+
+## Submission ten (10) - Kotlin
+**[Draw Christmas tree](https://github.com/jgrieger/2-to-the-5th/blob/master/Ten/DrawChristmasTree.kt)**
