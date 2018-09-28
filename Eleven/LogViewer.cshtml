@@ -1,0 +1,31 @@
+﻿@*cerner_2^5_2018*@
+
+@page
+@using RazorWebAppTest.Models
+@model RazorWebAppTest.Pages.LogViewerModel
+@{
+    ViewData["Title"] = "Log viewer";
+}
+
+<h2>Application log entries</h2>
+
+<table style="width:100%">
+    <tr>
+        <th>@nameof(LogEntry.ClientTimestamp)</th>
+        <th>@nameof(LogEntry.ServerTimestamp)</th>
+        <th>@nameof(LogEntry.Username)</th>
+        <th>@nameof(LogEntry.Message)</th>
+        <th>@nameof(LogEntry.Severity)</th>
+    </tr>
+
+    @foreach (var entry in Model.LogEntries)
+    {
+        <tr>
+            <td>@entry.ClientTimestamp</td>
+            <td>@entry.ServerTimestamp</td>
+            <td>@entry.Username</td>
+            <td>@entry.Message</td>
+            <td>@entry.Severity</td>
+        </tr>
+    }
+</table>
