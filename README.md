@@ -39,3 +39,6 @@
 
 ## Submission thirteen (13) - Python
 **[Is this year a leap year?](https://github.com/jgrieger/2-to-the-5th/blob/master/Thirteen/IsThisYearALeapYear.py)**
+
+## Submission fourteen (14) - Scala
+**[Word wrap](https://github.com/jgrieger/2-to-the-5th/blob/master/Fourteen/WordWrap.scala)**
