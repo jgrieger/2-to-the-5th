@@ -45,3 +45,6 @@
 
 ## Submission fifteen (15) - SQL
 **[Fun with snapshots](https://github.com/jgrieger/2-to-the-5th/blob/master/Fifteen/FunWithSnapshots.sql)**
+
+## Submission sixteen (16) - JavaScript
+**[Query MongoDB](https://github.com/jgrieger/2-to-the-5th/blob/master/Sixteen/QueryMongoDb.js)**
