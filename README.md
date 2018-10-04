@@ -48,3 +48,6 @@
 
 ## Submission sixteen (16) - JavaScript
 **[Query MongoDB](https://github.com/jgrieger/2-to-the-5th/blob/master/Sixteen/QueryMongoDb.js)**
+
+## Submission seventeen (17) - Pascal
+**[Oh no, another boring fizz buzz](https://github.com/jgrieger/2-to-the-5th/blob/master/Seventeen/FizzBuzz.pas)**
