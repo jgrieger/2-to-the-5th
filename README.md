@@ -51,3 +51,6 @@
 
 ## Submission seventeen (17) - Pascal
 **[Oh no, another boring fizz buzz](https://github.com/jgrieger/2-to-the-5th/blob/master/Seventeen/FizzBuzz.pas)**
+
+## Submission eighteen (18) - C++
+**[Print digits of number](https://github.com/jgrieger/2-to-the-5th/blob/master/Eighteen/PrintDigitsOfNumber/PrintDigitsOfNumber/PrintDigitsOfNumber.cpp)**
