@@ -57,3 +57,6 @@
 
 ## Submission nineteen (19) - Pearl
 **[Generate GUID/UUID](https://github.com/jgrieger/2-to-the-5th/blob/master/Nineteen/GenerateGuid.pl)**
+
+## Submission twenty (20) - Objective C
+**[Check intranet connectivity](https://github.com/jgrieger/2-to-the-5th/blob/master/Twenty/CheckIntranetConnectivity.m)**
