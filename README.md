@@ -63,3 +63,6 @@
 
 ## Submission twenty one (21) - R
 **[Get integer from Roman numerals](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyOne/FromRomanNumerals.r)**
+
+## Submission twenty two (22) - Rust
+**[Parse CSV and display contents hierarchically](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyTwo/src/CsvParser.rs)**
