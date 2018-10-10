@@ -66,3 +66,6 @@
 
 ## Submission twenty two (22) - Rust
 **[Parse CSV and display contents hierarchically](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyTwo/src/CsvParser.rs)**
+
+## Submission twenty three (23) - Java
+**[Builder pattern with Consumer<T>](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyThree/BuilderPatternWithConsumer.java)**
