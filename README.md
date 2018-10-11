@@ -69,3 +69,6 @@
 
 ## Submission twenty three (23) - Java
 **[Builder pattern with Consumer<T>](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyThree/BuilderPatternWithConsumer.java)**
+
+## Submission twenty four (24) - Pony
+**[Print all system environment variables](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyFour/PrintAllEnvironmentVariables.pony)**
