@@ -72,3 +72,6 @@
 
 ## Submission twenty four (24) - Pony
 **[Print all system environment variables](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyFour/PrintAllEnvironmentVariables.pony)**
+
+## Submission twenty five (25) - Ada
+**[Check input for even or odd numbers](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyFive/EvenOrOddInputs.adb)**
