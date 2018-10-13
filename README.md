@@ -75,3 +75,6 @@
 
 ## Submission twenty five (25) - Ada
 **[Check input for even or odd numbers](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyFive/EvenOrOddInputs.adb)**
+
+## Submission twenty six (26) - OCaml
+**[Random int generator with random sign](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentySix/RandomIntGenerator.ml)**
