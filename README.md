@@ -78,3 +78,6 @@
 
 ## Submission twenty six (26) - OCaml
 **[Random int generator with random sign](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentySix/RandomIntGenerator.ml)**
+
+## Submission twenty seven (27) - MATLAB
+**[Multiply two multi-dimensional matrices](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentySeven/MultiplyMatrices.m)**
