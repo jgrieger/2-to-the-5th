@@ -81,3 +81,6 @@
 
 ## Submission twenty seven (27) - MATLAB
 **[Multiply two multi-dimensional matrices](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentySeven/MultiplyMatrices.m)**
+
+## Submission twenty eight (28) - Fortran
+**[Reverse string](https://github.com/jgrieger/2-to-the-5th/blob/master/TwentyEight/ReverseString.f90)**
